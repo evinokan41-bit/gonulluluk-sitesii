@@ -18,8 +18,9 @@
     <section>
       <h2>Projelerim</h2>
       <ul>
-        <li>Proje A — Sosyal sorumluluk ve yardım çalışmaları</li>
-        <li>Proje B — Eğitim destek ve mentorluk</li>
+        <li>Proje A — Sosyal sorumluluk ve yardım çalışmaları (çevre,
+        yardım, farkındalık)</li>
+        <li>Proje B — Eğitim destek ve mentorluk (ders,rehberlik)</li>
       </ul>
     </section>
 
