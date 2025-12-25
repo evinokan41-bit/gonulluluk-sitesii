@@ -86,5 +86,70 @@
   <footer>
     <small>© rehbergönüllülük</small>
   </footer>
-</body>
+</body>/* GENEL AYARLAR */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sans-serif;
+}
+
+body {
+  background-color: #f6f7fb;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* SAYFA GENEL YAPI */
+main {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* BAŞLIKLAR */
+h1, h2 {
+  color: #2c3e50;
+}
+
+h2 {
+  margin-top: 40px;
+  border-left: 6px solid #4CAF50;
+  padding-left: 10px;
+}
+
+/* BÖLÜMLER */
+section {
+  background: #ffffff;
+  padding: 20px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* LİSTELER */
+ul {
+  margin-top: 10px;
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* VURGU METİNLERİ */
+strong {
+  color: #2c7be5;
+}
+
+/* MOBİL UYUMLULUK */
+@media (max-width: 768px) {
+  body {
+    font-size: 16px;
+  }
+
+  section {
+    padding: 16px;
+  }
+}
 </html>
