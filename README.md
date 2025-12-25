@@ -145,7 +145,6 @@
   <nav id="menu">
     <a href="#">Ana Sayfa</a>
     <a href="#">Gönüllülük Alanları</a>
-    <a href="#">Hakkında</a>
     <a href="#">İletişim</a>
   </nav>
 </header>
