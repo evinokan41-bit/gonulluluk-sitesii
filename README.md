@@ -4,32 +4,33 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Kendi Sitem</title>
+  <title>Gönüllülük Rehberi</title>
   <link rel="stylesheet" href="style.css" />
-</head>
+</head><meta name="description" content="Öğrenciler için gönüllülük rehberi. Gönüllülük projeleri, sosyal sorumluluk fırsatları ve başvuru bilgileri.">
 <body>
   <header>
-    <h1>Hoş geldiniz!</h1>
-    <p>Benim kişisel sitem — buraya kendiniz hakkında bilgi, projeler ve iletişim koyabilirsiniz.</p>
+    <h1>Gönüllülük Rehberi|Öğrenciler İćin Gönüllülük Projeleri</h1>
+    <p>Bu site, öğrencilerin gönüllülük projelerini keşfetmesi, hangi alanlarda gönüllü olabileceklerini öğrenmesi 
+      ve uygun projelere yönlendirilmesi amacıyla hazırlanmıştır. </p>
   </header>
 
   <main>
     <section>
       <h2>Projelerim</h2>
       <ul>
-        <li>Proje A — kısa açıklama</li>
-        <li>Proje B — kısa açıklama</li>
+        <li>Proje A — Sosyal sorumluluk ve yardım çalışmaları</li>
+        <li>Proje B — Eğitim destek ve mentorluk</li>
       </ul>
     </section>
 
     <section>
-      <h2>İletişim</h2>
-      <p>e-posta: örnek@posta.com</p>
+      <h2></h2>
+      <p></p>
     </section>
   </main>
 
   <footer>
-    <small>© 2025 — Adınız</small>
+    <small>© rehbergönüllülük</small>
   </footer>
 </body>
 </html>
