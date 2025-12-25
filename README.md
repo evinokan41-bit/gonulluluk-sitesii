@@ -14,6 +14,29 @@
       ve uygun projelere yönlendirilmesi amacıyla hazırlanmıştır. </p>
   </header>
 
+<section>
+  <h2>🌱 Çevre ve Doğa Gönüllülüğü</h2>
+
+  <p>Doğayı korumak isteyen öğrenciler için gönüllülük fırsatları.</p>
+
+  <ul>
+    <li><strong>TEMA:</strong> Ağaç dikimi, çevre bilinci etkinlikleri.</li>
+    <li><strong>WWF:</strong> Doğal yaşamı korumaya yönelik farkındalık çalışmaları.</li>
+    <li><strong>Deniz Temizliği:</strong> Sahil temizliği ve çevre etkinlikleri.</li>
+  </ul>
+<section>
+  <h2>🌱 Çevre ve Doğa Gönüllülüğü</h2>
+
+  <p>Doğayı korumak isteyen öğrenciler için gönüllülük fırsatları.</p>
+
+  <ul>
+    <li><strong>TEMA:</strong> Ağaç dikimi, çevre bilinci etkinlikleri.</li>
+    <li><strong>WWF:</strong> Doğal yaşamı korumaya yönelik farkındalık çalışmaları.</li>
+    <li><strong>Deniz Temizliği:</strong> Sahil temizliği ve çevre etkinlikleri.</li>
+  </ul>
+</section>
+
+ 
   <main>
     <section>
       <h2>Projelerim</h2>
