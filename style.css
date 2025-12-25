@@ -134,3 +134,12 @@ nav a:hover {
   border-radius: 15px;
   margin: 20px 0;
 }
+
+
+
+.hero {
+  background: linear-gradient(135deg, #4caf50, #81c784);
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
