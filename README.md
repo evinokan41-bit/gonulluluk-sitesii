@@ -1,0 +1,35 @@
+
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Kendi Sitem</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hoş geldiniz!</h1>
+    <p>Benim kişisel sitem — buraya kendiniz hakkında bilgi, projeler ve iletişim koyabilirsiniz.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Projelerim</h2>
+      <ul>
+        <li>Proje A — kısa açıklama</li>
+        <li>Proje B — kısa açıklama</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>İletişim</h2>
+      <p>e-posta: örnek@posta.com</p>
+    </section>
+  </main>
+
+  <footer>
+    <small>© 2025 — Adınız</small>
+  </footer>
+</body>
+</html>
