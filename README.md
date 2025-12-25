@@ -13,57 +13,116 @@
     <h1>Gönüllülük Rehberi|Öğrenciler İçin Gönüllülük Projeleri</h1>
     <p>Bu site, öğrencilerin gönüllülük projelerini keşfetmesi, hangi alanlarda gönüllü olabileceklerini öğrenmesi 
       ve uygun projelere yönlendirilmesi amacıyla hazırlanmıştır. </p>
-  </header>
+  </header>  </ul>
 
+
+  
 <section>
-  <h2>🌱 Çevre ve Doğa Gönüllülüğü</h2>
+  <h2>🌱 ÇEVRE & DOĞA GÖNÜLLÜLÜĞÜ</h2>
+  <p>Doğayı korumak isteyen herkes için gönüllülük fırsatları.</p>
 
-  <p>Doğayı korumak isteyen öğrenciler için gönüllülük fırsatları.</p>
-
+  <h4>Bu alanda neler yapılır?</h4>
   <ul>
-    <li><strong>TEMA:</strong> Ağaç dikimi, çevre bilinci etkinlikleri.</li>
-    <li><strong>WWF:</strong> Doğal yaşamı korumaya yönelik farkındalık çalışmaları.</li>
-    <li><strong>Deniz Temizliği:</strong> Sahil temizliği ve çevre etkinlikleri.</li>
+    <li>Ağaç dikimi ve çevre temizliği</li>
+    <li>Doğa farkındalığı etkinlikleri</li>
+    <li>Sahil ve orman temizliği</li>
+    <li>Bilgilendirme çalışmaları</li>
   </ul>
-<section>
+
+  <h4>Kimler katılabilir?</h4>
+  <p>Öğrenciler, gençler ve çevreye duyarlı herkes. Bazı etkinliklerde yaş sınırı bulunabilir.</p>
+</section>
+
+
 
 <section>
-  <h2>❤️ Sosyal Yardım ve Dayanışma</h2>
+  <h2>❤️ SOSYAL YARDIM & DAYANIŞMA</h2>
+  <p>Toplumsal dayanışmayı güçlendiren gönüllülük alanları.</p>
 
-  <p>Topluma destek olmak isteyen gönüllüler için.</p>
-
+  <h4>Bu alanda neler yapılır?</h4>
   <ul>
-    <li><strong>Kızılay:</strong> Yardım organizasyonlarında destek.</li>
-    <li><strong>LÖSEV:</strong> Lösemili çocuklar için etkinlik desteği.</li>
-    <li><strong>Yardım Dernekleri:</strong> Gıda, kıyafet ve yardım organizasyonları.</li>
+    <li>Yardım kolisi hazırlama</li>
+    <li>Etkinliklerde görev alma</li>
+    <li>Sosyal destek çalışmalarına katkı</li>
+    <li>Organizasyon ve düzenleme desteği</li>
   </ul>
+
+  <h4>Kimler katılabilir?</h4>
+  <p>Herkes. Çoğu görev için özel bir deneyim gerekmez.</p>
 </section>
 
 
 <section>
-  <h2>📚 Eğitim ve Gençlik</h2>
+  <h2>📚 EĞİTİM & GENÇLİK GÖNÜLLÜLÜĞÜ</h2>
+  <p>Çocuklara ve gençlere destek olabileceğin gönüllülük alanları.</p>
 
-  <p>Eğitime destek olmak isteyen gönüllüler için.</p>
-
+  <h4>Bu alanda neler yapılır?</h4>
   <ul>
-    <li><strong>TEGV:</strong> Çocuklara eğitim desteği.</li>
-    <li><strong>TOG:</strong> Üniversite öğrencileriyle sosyal projeler.</li>
-    <li><strong>Köy Okulları:</strong> Kitap ve etkinlik desteği.</li>
+    <li>Etkinliklerde yardımcı olmak</li>
+    <li>Oyun, okuma ve atölye çalışmaları</li>
+    <li>Eğitim projelerine destek vermek</li>
   </ul>
+
+  <p><strong>Not:</strong> Bu gönüllülükler öğretmenlik değildir. Amaç çocuklara eşlik etmek ve destek olmaktır.</p>
 </section>
 
 
 <section>
-  <h2>🐾 Hayvan Hakları</h2>
+  <h2>🐾 HAYVAN HAKLARI GÖNÜLLÜLÜĞÜ</h2>
+  <p>Sokak hayvanları ve barınaklar için gönüllü çalışmalar.</p>
 
-  <p>Sokak hayvanları ve barınaklara destek ol.</p>
-
+  <h4>Bu alanda neler yapılır?</h4>
   <ul>
-    <li><strong>Barınak Gönüllülüğü:</strong> Temizlik, bakım ve mama desteği.</li>
-    <li><strong>HAYTAP:</strong> Hayvan hakları savunuculuğu.</li>
+    <li>Mama ve su desteği</li>
+    <li>Barınak temizliği</li>
+    <li>Hayvanlarla ilgilenme</li>
+    <li>Farkındalık çalışmaları</li>
   </ul>
+
+  <p><strong>Not:</strong> Bazı barınaklarda yaş sınırı veya veli izni istenebilir.</p>
 </section>
 
+
+<section>
+  <h2>💻 DİJİTAL / UZAKTAN GÖNÜLLÜLÜK</h2>
+  <p>Evden gönüllü olmak isteyenler için.</p>
+
+  <h4>Bu alanda neler yapılır?</h4>
+  <ul>
+    <li>Sosyal medya içerik paylaşımı</li>
+    <li>Afiş, tasarım veya metin desteği</li>
+    <li>Online duyuru ve bilgilendirme çalışmaları</li>
+  </ul>
+
+  <p><strong>Avantajı:</strong> Zaman ve mekân sınırı yoktur.</p>
+</section>
+
+
+<section>
+  <h2>👥 KİMLER GÖNÜLLÜ OLABİLİR?</h2>
+  <ul>
+    <li>Ortaokul ve lise öğrencileri</li>
+    <li>Üniversite öğrencileri</li>
+    <li>İlk kez gönüllü olmak isteyenler</li>
+    <li>Zamanını faydalı geçirmek isteyen herkes</li>
+  </ul>
+
+  <p><strong>Gönüllü olmak için uzman olman gerekmez.</strong></p>
+</section>
+
+
+<section>
+  <h2>❓ SIK SORULAN SORULAR</h2>
+
+  <p><strong>Gönüllülük ücretli mi?</strong><br>
+  Hayır, gönüllülük tamamen ücretsizdir.</p>
+
+  <p><strong>Yaş sınırı var mı?</strong><br>
+  Bazı projelerde olabilir, çoğunda yoktur.</p>
+
+  <p><strong>Ne kadar zaman ayırmam gerekir?</strong><br>
+  Etkinliğe göre değişir. Haftada birkaç saat yeterli olabilir.</p>
+</section>
 
 
  
