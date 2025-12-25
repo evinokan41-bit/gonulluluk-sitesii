@@ -55,7 +55,7 @@ strong {
 }
 
 /* MOBİL UYUMLULUK */
-@media (max-width: 600px) {
+@media (max-width: 780px) {
   body {
     font-size: 16px;
   }
@@ -162,4 +162,50 @@ nav a:hover {
   border-radius: 12px;
   padding: 20px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+
+/* TELEFON UYUMLULUK AYARI */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Kartlar mobilde tam genişlik */
+.renkli-bolum {
+  padding: 15px;
+}
+
+.kart {
+  width: 100%;
+  margin-bottom: 15px;
+  border-radius: 12px;
+  background: white;
+  padding: 15px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+/* Telefon ekranı için özel ayar */
+@media (max-width: 768px) {
+  .hero {
+    padding: 40px 15px;
+    text-align: center;
+  }
+
+  .hero h1 {
+    font-size: 22px;
+  }
+
+  .kart h3 {
+    font-size: 18px;
+  }
+
+  .kart p {
+    font-size: 14px;
+  }
 }
