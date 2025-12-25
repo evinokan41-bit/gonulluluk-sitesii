@@ -35,6 +35,7 @@
 
 
 
+
 <section>
   <h2>❤️ SOSYAL YARDIM & DAYANIŞMA</h2>
   <p>Toplumsal dayanışmayı güçlendiren gönüllülük alanları.</p>
@@ -52,6 +53,8 @@
 </section>
 
 
+
+
 <section>
   <h2>📚 EĞİTİM & GENÇLİK GÖNÜLLÜLÜĞÜ</h2>
   <p>Çocuklara ve gençlere destek olabileceğin gönüllülük alanları.</p>
@@ -65,6 +68,7 @@
 
   <p><strong>Not:</strong> Bu gönüllülükler öğretmenlik değildir. Amaç çocuklara eşlik etmek ve destek olmaktır.</p>
 </section>
+
 
 
 <section>
@@ -83,6 +87,8 @@
 </section>
 
 
+
+
 <section>
   <h2>💻 DİJİTAL / UZAKTAN GÖNÜLLÜLÜK</h2>
   <p>Evden gönüllü olmak isteyenler için.</p>
@@ -98,6 +104,8 @@
 </section>
 
 
+
+
 <section>
   <h2>👥 KİMLER GÖNÜLLÜ OLABİLİR?</h2>
   <ul>
@@ -109,6 +117,7 @@
 
   <p><strong>Gönüllü olmak için uzman olman gerekmez.</strong></p>
 </section>
+
 
 
 <section>
