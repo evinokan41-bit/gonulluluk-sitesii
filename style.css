@@ -55,7 +55,7 @@ strong {
 }
 
 /* MOBİL UYUMLULUK */
-@media (max-width: 768px) {
+@media (max-width: 600px) {
   body {
     font-size: 16px;
   }
