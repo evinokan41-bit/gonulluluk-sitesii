@@ -125,3 +125,12 @@ nav a:hover {
     display: block;
   }
 }
+
+
+
+.renkli-bolum {
+  background: #e8f5e9;   /* açık yeşil */
+  padding: 40px 20px;
+  border-radius: 15px;
+  margin: 20px 0;
+}
