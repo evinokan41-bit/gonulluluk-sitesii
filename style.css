@@ -143,3 +143,23 @@ nav a:hover {
   text-align: center;
   padding: 80px 20px;
 }
+
+.hero {
+  background: linear-gradient(135deg, #4caf50, #81c784);
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.renkli-bolum {
+  display: grid;
+  gap: 20px;
+  padding: 30px;
+}
+
+.kart {
+  background: white;
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
